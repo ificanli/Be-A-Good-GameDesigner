@@ -1,0 +1,26 @@
+# 2026-08-10 第三批战斗与设计资料 SHA-256
+# 哈希在移动原始文件前计算；移动不会改变文件内容。
+
+69997f282b25a356b6760709eed0dc68f36355142df53ebbb7fac58b4b96f45a  07_项目资料/战斗设计/案例拆解/AFK2战斗系统和角色体系.pdf
+2c5640e4ae20b554dac1077b5bdad83877b73fd96ca826d3321bfab10a1a0d0d  03_书籍与论文/书籍/[当代心理科学名著译丛]认知心理学(第5版) ([英]艾森克 [英]基恩) (Z-Library).pdf
+50b6559d65ce612e59a0bee4f358e35f9af136bde61920076acde90c8fd495e9  07_项目资料/战斗设计/案例拆解/《哈迪斯》游戏拆解.pdf
+3438b53be4357247aa2523186110aeb3fda0c266bbf4878b6dc1750f5868e077  03_书籍与论文/书籍/【当代心理科学名著译丛】心理模块性 福多著.pdf (Jerry A.Fodor) (Z-Library).pdf
+ba7d45ebec4ade27ed5de643168bc8aa8fd797b2c3760ecad553b5a120f50ccb  03_书籍与论文/书籍/【当代心理科学名著译丛】思想和行动的社会基础.pdf (Albert Bandura) (Z-Library).pdf
+f6e25729cacbf678a861ee9bab164b818b39d2d204e7630edf5acb905a1d5f34  07_项目资料/战斗设计/案例拆解/哈迪斯2EA基础战斗拆解.pdf
+abf82a02be7ac168bb282394f9a0b30809b998820e2786a677ce969c33413d1f  01_我的原创/待确认作者/在战斗系统中，角色有自身的输出体系，也有角色和敌人间的交互体....md
+17824638aa9baba9450065d130e1e50fb96b9893809cb4f6131eb1732dbd6f12  01_我的原创/待确认作者/引言.md
+5c52001bd04d2491e602470ffc57444aa3e4924a43f01c28341b76dfc983421a  07_项目资料/战斗设计/案例拆解/引言：战斗系统.md
+639688be52e234c4d1542af2da44fa4a58a52157b296326ffba02d1f7c1bf122  07_项目资料/战斗设计/方法与框架/战斗体系理论.pdf
+3d03a92d211b65a8a318d059e9ade610475fe3cee2cb2410d56af47098ba0188  07_项目资料/战斗设计/方法与框架/战斗策划认知框架.pptx
+3691e25a5cc8c791818190de26d302b0aef287a5bb8a04f1819775e9bf6a24f2  07_项目资料/战斗设计/方法与框架/战斗系统框架图.pdf
+a83b20507050fe673af4be938a60dff16bc6fe2653cadd8e9c14a79dc81cc174  07_项目资料/战斗设计/方法与框架/战斗系统设计评价分析方法论.pdf
+6517136eb9be421409fe36edff1d0e01d97176f883f46cc9643ab06df896a74f  07_项目资料/战斗设计/方法与框架/技能设计池.pdf
+aa4c76ac712585483c27686ee4c7b72388c0a7ed3ac5edd24fe959258b0f26c6  07_项目资料/战斗设计/方法与框架/格斗游戏.zip
+8ec566e1b0ee7c562dc95aca12956432a7aaebf387555052267094aab2c5087e  03_书籍与论文/书籍/游戏数值百宝书：成为优秀的数值策划 (袁兆阳) (Z-Library).pdf
+6a31def7a330afccea15d8594f83acd1ed83074af2126908791983e121c0ba0b  03_书籍与论文/书籍/游戏设计入门：理解玩家思维 ([美] 扎克 • 海维勒) (Z-Library).pdf
+f75785ce868b71c62e07efc05a46da74f0ffc26736fa6ddb3b7918218bae8254  03_书籍与论文/书籍/游戏设计基础 (欧内斯特·亚当斯 (Ernest Adams)) (Z-Library).pdf
+4661982e10713df0fc8b70178e0c39dd95f1d7462b419ed51ca5c7bb9745dc7f  03_书籍与论文/书籍/游戏设计梦工厂 (Tracy Fullerton) (Z-Library).pdf
+4b3db864cac07933ba5edf8b20fe16392b8d4ad6c46f5677138a0dcaca5b3290  03_书籍与论文/书籍/游戏设计艺术（第3版） (Jesse Schell, 刘嘉俊, 杨逸, 欧阳立博, 陈闻, 陆佳琪) (Z-Library).pdf
+8130fb89dc9a9497968aa25a99fe325bb63944aa5a7e15235c571c23f1df1859  03_书籍与论文/书籍/游戏设计进阶：一种系统方法 (【美】迈克尔•塞勒斯（Michael Sellers）) (Z-Library).pdf
+731ee28c733eac260abb61ae083f26617880fe9afdc44d575c46a128f7fdee5a  07_项目资料/战斗设计/案例拆解/花亦山心之月系统拆解.pdf
+733eb489b9d955958a5a34666327ad0f16042e6049689bb895179c176bda3343  07_项目资料/战斗设计/案例拆解/鸣潮战斗系统.pdf

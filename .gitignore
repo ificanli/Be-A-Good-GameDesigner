@@ -3,3 +3,6 @@ Thumbs.db
 .DS_Store
 
 .tmp-old-repo/
+
+# Large third-party ebooks stay local; publish notes and citations only.
+98_待整理资料/03_书籍与论文/书籍/
