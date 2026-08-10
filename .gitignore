@@ -1,3 +1,5 @@
 .piagent/
 Thumbs.db
 .DS_Store
+
+.tmp-old-repo/
