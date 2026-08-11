@@ -1,0 +1,36 @@
+Yaa: < 》maxtad <maxtal: )'x; = maxtay
+2、下面计算平均消耗C&。从x级开始，
+进行工次强化，消耗:
+Ch=c(x) =1,-€
+进行 2 次强化，消耗:
+CE=E+TPE
+进行 3 次强化，消耗:
+Ny          Ny
+c= Te E+ LP E+) PD) PUD = 1p: C+1yP C+ 1,P? +
+i        fl
+进行4次强化，消耗:
+Ny          Ny          Ny
+Cha 1,-€+1,P-C+1,P?-t+ > P(x, ay Pj) oy PG, k) c(k)
+=        fl        cat
+=1y- C+ IP C+1,P? -C+1,P3 -¢
+由归纳法不难得到，进行nm次强化，消耗，
+chs (ea
+=i
+“PR, WRI — P可着，则有:
+C= TO-PDGC一PE
+二、实现及举例
+根据以上结论，编写函数来计算Y和C&，如下:
+function [¥,Cxn]=Enhance (P, x, n, c)
+%已知:一步转移概率甜阵P，起始等级zx，强化次数n和成本向量
+%返回: n次强化总消耗的期望V, 所能到达的平均等级Y
+[P_size, ~]=size(P) ;Q-zeros (P_size) ;
+I-eye (P_size) ; Ix=zeros(1, P_size) ; Ix(x)=1
+wih LY
+RP’
+Y=(1: L:P_size]#R(x, :)”
+end
+wi ECKn:
+QQ (i-1)
+end
+Can=txaQec
+以本文问题二中第一个强化规律为例，给出几个结果:

@@ -1,0 +1,37 @@
+id:
+X=) xy
+就是从1级强化到mn级的次数期望。
+xy at mg i tee x, ys >
+a, An                 ay
+并且注意到an + Dy + cn + dy = 1，进一步化简得:
+Xn =U te *Xp1tdy-Xn1), n>1
+由此，可以徒手迭代计算或者EXCEL拉表得到结果。
+例如，某强化过程如下:
+[asm [ox [ve [on [os fo [oe [oe [os [ oe |
+[acawera [we [or [on [oa [on [oa [ow [oe [os |
+[ac [oe [oe [oa [oe [oa [oe [oe [oa | oe |
+[aska | oo fos fos [os Jos Jos Pos Jos | |
+制表结果《结果保留两位小数):
+[| |
+[erase [os [os [os [oa [oor [os Tos [os [os |
+[as oe [oe [oe [oo [oo [oo Toe [ow |
+[orm |e [os [oor [oor Toa Tos Too Pow | os |
+[anane [oe [ow [ew [om [ee [oe [aw [aw [oe |
+[inven [= [om [oe [ee [om [ee [ee [oom [a |
+经检验和矩阵方法一致
+进一步，当ma_ > 2时，可以得到人]}的递推公式:
+,Xq— (1 by)Xna + caXn 2一工
+在上面这个例子里，an = a = 0.4， b,=b=0.3, c,=c=0.2.
+那么递推公式就是:
+Xn 一1.75Xh 1 +0.5Xh 2 = 2.5
+容易计算出初始的两个值:
+X,=2.5, X, = 6.875
+递归操作可以手动进行，可以EXCEL拉表，也可以借助软件〈笔者用Mathnematica，
+使用的函数为RecurrenceTable)。
+输入:
+RecurrenceT able[{X[n] — 1.75X[n 一1] + 0.5X[n 一2] == 2.5,X[1] == 2.5,X[2] == 6.875}X {n, 1,9}]
+{2.5,6.875,13.2813,22.3047,34.8926,52.4097,76.7706,110.644,157.741}
+实际上，因为这是一个线性非齐次递推关系，完全可以用生成函数的方法给出解析解。
+下面仅给出部分提示:
+(xn + 10) — 1.75(Xp_1 + 10) + 0.5(Xpn_2 + 10) = 0
+WX, +10=Ty, MA:

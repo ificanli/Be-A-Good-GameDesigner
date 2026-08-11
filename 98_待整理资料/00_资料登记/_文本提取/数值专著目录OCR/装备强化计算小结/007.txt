@@ -1,0 +1,41 @@
+1, REPEAT
+经过前面的讨论，得知，比较可行的方法有两个: FEET AEE II. CU
+有五个:
+(1)、一步转移概率矩阵P;
+(2)、初始等级x;
+(3)、目标等级y;
+(4)、各等级强化消耗成本E;
+(5)、失阵级数解法中用以调整结果精度的项数mn。
+只要确定以上参数，就可以得到结果。为此可以编写函数来实现此功能。Matlab代码
+如下:
+function Result=Markov(P, xy,c)
+SPE RIED, AIRE, WELL, oN A NEUE UCT RF BEA
+返回结果Result=[upgrade_time, total_cost]:
+% 1、upgrade_time为从x升级到y的升级次数期望;
+% 2、total_cost为此过程中总消耗的期望。
+%一、求P甜阵的阶数:
+[P_size, ~]=size(P);
+ol. TEBE:
+I-eye (P_size) ;
+Ix=zeros (1, P_size) ;Ix(x)=1;
+Iy=zeros(P_size, 1) ;Iy(y)=1;
+Ey=I; Ey (y, ¥)=0;
+8S. We:
+upgrade_tine=O:
+total_cost=0
+upgrade_t ime=[x* (I-P#Ey) “-24P+Ly;
+total_cost=[x#((I-P#Ey) 一1#P+T)#Ey#c” ;
+end
+Result=[upgrade_time, total_cost];
+某网游装备强化规则如下:
+1一2: 强化成功率为75%，强化失败强化仍为 1。
+2一3: 强化成功率为 60%，强化失败强化仍为 2。
+3一4: 强化成功率为 50%，强化失败掉回 2。
+4一5: 强化成功率为 45%，强化失败掉回 2。
+5一6: 强化成功率为 15%，强化失败掉回 2。
+6一7: 强化成功率为 20%，强化失败为 6。
+7一8: 强化成功率为 10%6，强化失败掉回 6。
+8一9: 强化成功率为 16，强化失败为 8。
+9一10: 强化成功率为 26，强化失败为 8。
+问，从1强化到 10:
+1、平均需要强化多少次?

@@ -1,0 +1,409 @@
+
+=== PAGE 1 ===
+数值设定
+一一成长
+BALES 李林 archerlinli
+
+
+=== PAGE 2 ===
+“令仅值从宏观到微观的过程
+一.宏观设定(前期准备)
+1总体验规划
+2.理清系统结构
+二.框架搭建
+三.一般设定流程
+四.具体系统设定
+
+
+=== PAGE 3 ===
+XE
+为什么首先要做
+宏观设定呢 ?
+P 4                                    游戏的数值体验是一个整体为避
+=                                   免只见树木不见森林的情况，某些
+基凋值必须提前定义好。
+od                               =    )           LY Rg
+
+
+=== PAGE 4 ===
+SENNA                           ily
+on
+Yo
+
+
+=== PAGE 5 ===
+[ |          ORY      &
+冯观设定一一战斗体验
+战斗节奏
+                               技能
+= < 区
+ROA                       到
+ene |                     eit
+mis              战斗
+                   体验              职业
+"           = i gees       :
+SS 8
+
+
+=== PAGE 6 ===
+sf    VAN                           ear
+NEMS KE ——§$ PRA (S38
+升级时间
+eo Se
+MR                            功能开启
+is            ba  a  四
+目标                成长
+5 sare orn        体验
+TO: |.                            兴奋点
+met ®                   —a         i    €
+
+
+=== PAGE 7 ===
+ia:
+NEMS E—§$ FEEL
+数估设定展开的基础
+eeeee       10级(1天)           15级 (1天)              30级 (3天)       eeee
+|         |         |
+|
+开启xx系统         |         开启xx系统         |                           |
+功能开启        开启xx玩法         开启xx玩法         |
+|
+养成目标     ocRGGESNGR =| xx(统达到和级。 |。 xx系统达到x等级
+人和|                                        |            获得xx角色            |
+|                            1                           |
+|                            1                           |
+目的           |            目的            |           目的            |
+玩法目标            难度           |            难度            |           难度            |
+玩家感受         |          玩家感受         玩家感受          |
+i}                                                       |
+1                            1                           |
+单日时长       单日总时间长度 |       单日总时间长度        | 单日总时间长度       |
+上          一、        a
+
+GEER =| mRNA =| xx玩法单B时长 |
+|                            |       xx玩法单日时长       |
+i}                                                       |
+1                            1                           |
+
+I                            1
+单日级数       eR |       xx系统单日升级数      |      xx系统单日升级数
+| ORR = | TRE
+
+
+=== PAGE 8 ===
+SENNA              ily
+a
+om
+
+
+=== PAGE 9 ===
+—
+se         ，
+受观设定一一理清结构       hy
+Bing heap
+es |
+=
+
+
+=== PAGE 10 ===
+可结                           il
+游戏数值设计前期准备
+1.体验规划
+战斗体验核心数据的确定
+成长体验核心数据的确定
+玩法成长相关的总体验的规划
+2.游戏结构整理
+功能点
+产出循环
+
+
+=== PAGE 11 ===
+ERIS
+数值设计中面临的问题
+|                                                is     A       25
+ie | Tie                          PS
+
+
+=== PAGE 12 ===
+—
+NNER TSE
+区 六四 职业设定 “二
+RE人
+总属性成长线
+mee
+wie
+产出投放
+数值设定        一属性成长节奏
+me
+和成长相关的产出系统的设定。
+eg. =
+资源种类
+全资源价值
+ 全资源产出
+— samt
+
+
+=== PAGE 13 ===
+— pre me
+NER Tate     成长系统的构成
+os       单次提升消耗
+se — 人大拓量大
+、     等级多 ，单次
+see — ee                   低消耗系统    每日提天点
+人消耗方式    概率提升型 一 提升次数多              日单次消耗量     中消耗系统“一 中期目标
+patna    REE                     高消耗系统“一 长期积累型目标
+anime — 合理包装
+功能开启限制 一 等级
+每日消耗点“一强化,点技能
+(<承载的功能            net — 装备获取 Ae
+中期目标 <
+展示性 — 时装, 称号
+养成玩法“一天赋,技能搭配
+
+
+=== PAGE 14 ===
+— pe Re
+NER Tate    成长系统的构成
+时间 一一 打怪,采集
+直接产出。 一一 答到 ， 领奖
+信产出方式 <      怪物击杀 ，         B.控制条件   每日次数。 一一 副本
+达成条件 ”一一通关副本 ，
+=
+完成任务  (me)      叭-一 8S, mat
+配套产出“一一 签到 ，领奖
+时间消耗 “一一 打怪, 采集
+PVE — ree
+cama    sonnei <
+PvP —— it
+art = — alas
+交互 一一”好友护送体力
+
+
+=== PAGE 15 ===
+“框采搭建一一      系
+emt                                         【高 ) tenets
+FTTTTTT |
+aa | 和               Savas}
+UNTER ROP MIR 2 OH           -)                    ‘REARaKeA. BORE
+meekescneexy,  —tSaKMRBRT
+-
+\ cifintaaeishatnalniaicel  直接定义出消耗枚线情况下  两种设定入型下标准属性成长节春      一           定义访资源的标准价值  RMB
+HORE MONE ae NER                                                                                     属性成长节奏
+TREADS                                    x amen              AN             —ROEAHANOS ps eeeMMRREREReE
+一一本本                      Hemera mnt
+SFAARERT IFE-7RMS terme
+_SASSEMMOKORT  eeegmgernmd LMR ER
+-让                       e208Fue | tm
+som
+IC
+产出投放       分配备产出进径产出比例
+RBA mmm 2 min
+neeereR |      全久生日标准反家可完成次娄
+ROMER teem
+
+
+=== PAGE 16 ===
+NS                           ail
+成长框架关注的核心点 :
+1.属性分配
+2.产出
+3.消耗
+4.不同玩家的成长节奏
+5.付费
+
+
+=== PAGE 17 ===
+SICKER,              ily
+Db
+BMIBREAK , CIKS , SARAM.
+本章节对设定流程加以归纳，以看清数值推导过程的本质。
+结构框架了然于胸                    推导出我们需要的结果
+ro
+5,     |                            °        e       ©
+eres  |     i
+
+
+=== PAGE 18 ===
+“设定遍程一一宏观
+gers       :
+gue
+
+
+=== PAGE 19 ===
+a
+swayze.     a
+AEMUFE - JIL
+em: "en       vex
+ee               直接定义成长节奏 e.9.等级-时间线
+根据属性性价比
+wR
+BSNS
+根据不同类型玩
+Pom cess
+整改设定中各
+1村                         个区同内的价格
+H设证    nn         计算各产出途径的产出  “5
+saa  |   [        (资源-时间曲线 )
+(等级-资源曲线 )                          (1资源- ?RMB )
+ART          prasad      计营不同类型岳家
+费购买属性性价比           的成长节奏        的付费空间
+《属性/RMB )                                                    (等级-时间)                                   (RMB)
+
+
+=== PAGE 20 ===
+a
+swayze.     b
+AE MUTE - JIL
+直接定义消耗曲线 e.9.对消耗及性价比敏感的系统
+
+三一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一一
+
+|
+|
+
+|
+|
+
+|
+|
+
+Pie               |
+
+|
+|
+
+|
+|
+
+|
+|
+|          i       :  了          计算各产出途径的产出       |
+|          :     1              (资源-时间曲线 )
+
+属性成长系统
+
+|                                         相关设定
+|
+|                          |
+|                                               《1资源= ?RMB)           alia                                             |
+|
+
+|
+|                  po
+
+|
+|
+|         Tea      Ha     Grace        |
+|         费购买属性作价比        成发节奏       的付费室间         |
+|         (局/RMB )       (某奈统等级-胃间 )      (RMB)         |
+| ee                   |
+FF                  二二
+|                         对所有系统求和得到     :出系统难度             |
+|                    PROMS                 |
+
+|
+|                                         1
+|                                        和角色属性成发
+|                        玩家达到产出系统的    “        (a ) 相关的
+|                        等级(关卡层政)    产册系统的设定
+|                                         |
+|                                         |
+
+|
+bo a!
+
+
+=== PAGE 21 ===
+方式a，b还可以再优化么 ?
+
+比如 : 单日升级速度 ( 日级数-时间 ) 是否是需要考虑的一个体验量?
+简言之，数值设定流程即 :
+
+1 确定需要关注的体验量
+
+2 通过设定初值，计算推导出体验量
+
+3 调整初值以不断调整体验量达到需求
+
+
+=== PAGE 22 ===
+二                                                                 和
+统设
+FI85IU SC KE
+a     4    4            bet,
+:        ee
+|             一                i Py ae) eee
+=    =>                          wp   图 566.078% 图   4.181) @ 55/118
+ae   ¢            =                    ITE: 4/5
+下点体力由复: 00:05: 10
+rn                 8                Ss           | BSR: 06:17:10      4
+es     “sn            5            \              RAHI: See —
+y                           @) =!     Z   ¥               <
+7攻图， “加           2                    了
+
+       a”    cry    I Bal)                       f 洲                    a
+
+
+=== PAGE 23 ===
+ny          ®.   iy                                       ca
+下-等级一时间线的设定
+需要关注的核心体验量有哪些 ?
+升级节奏 : 每级升级所需时间 ; 单日升级速度 ; 满级所需时间 ; 第1天达到等级
+付费 : 付费空间 ; 各类玩家付费额 ; 付费效果及性价比 ; 付费带来的差异
+升级意义 ( 功能开启，实力提升，功能限制解除 )
+需要初始设定的值有哪些 ?
+每日获取总经验基数，各系统经验产出比例
+各系统消耗资源和经验的对应关系 ( 1体力= ?经验 )
+经验的价格 ( 不同付费区间内的价格不同，性价比递减 )
+
+
+=== PAGE 24 ===
+和
+ny           wee
+<      一时上          XE
+—_—     anea Lene
+anORe TCR
+LL —— -
+-日
+sse
+RS  人等国国人只了大奖人
+seseuenoe | saqsagass —newe
+csummenronean |          TO
+|
+oe                 ssvoaeencenetae
+E.G.等级-时间线                                       |                                a
+coamssonpoenenwes |     — en
+rasagaae .rssasagaaerganasam
+maxcunvaciat RERNSE Tir, suze, Ronaawnaszaa
+|
+ccemmmmneeasee 。 [>ianwnncamnncemrane |{—senecmenrusceacanran assyeariaiaesuaeesa
+=|          i        sonareonauannetrerennt
+puinteicanmemnavenenas
+sana
+wmanenes  SR
+saaate zj， | -amuwasaarxrmmmammmm
+Pa           anreuuaieosonceroneuteaensnsnnectas
+eveuninensnewantia
+—
+nese
+
+
+=== PAGE 25 ===
+简言之
+具体每个系统的数值设定，实际上就是不断重复上一节我们
+所讲的数值设定流程这样一个过程
+
+到此就大功告成了么 ?” too youngtoo simple
+后面还需要不断的体验和调整
+
+
+=== PAGE 26 ===
+数值设定四步走
+一.宏观设定
+二.框架搭建
+三.一般设定流程
+四.具体系统设定
+
+
+=== PAGE 27 ===
+Thank You !
