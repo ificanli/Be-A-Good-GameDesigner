@@ -14,7 +14,7 @@
 </style></head>
 <body><main class="shell"><header class="top"><div class="brand"><i class="mark"></i>GAME DESIGN LOGIC</div><div class="status">OPEN KNOWLEDGE BASE / 2026</div></header>
 <section class="hero"><div><div class="eyebrow">Game numerical design methods</div><h1>从基础模型，<em>走到系统落地。</em></h1><p>《游戏数值设计方法》系列。依次建立基础模型、战斗数值、成长养成与资源经济，把分散的公式和配置组织成可以验证、复盘和迭代的生产流程。</p></div><div class="signal"><b>01 → 04</b><span>基础建模 · 战斗数值<br>成长养成 · 经济概率</span></div></section>
-<div class="grid"><aside class="side"><h3>SERIES / 游戏数值设计方法</h3><nav class="nav"><button class="active" data-filter="全部">系列全部文章</button><button data-filter="第一章">第一章 · 基础建模</button><button data-filter="第二章">第二章 · 战斗数值</button><button data-filter="第三章">第三章 · 成长与养成</button><button data-filter="第四章">第四章 · 经济与概率</button><button data-filter="第五章">第五章 · 验证与复盘</button></nav></aside><section class="content"><div class="toolbar"><h2 id="heading">游戏数值设计方法</h2><input id="search" class="search" placeholder="搜索系列文章…"></div><div id="cards" class="cards"></div><article id="reader" class="reader" hidden></article></section></div>
+<div class="grid"><aside class="side"><h3>SERIES / 游戏数值设计方法</h3><nav class="nav"><button class="active" data-filter="全部">系列全部文章</button><button data-filter="第一章">第一章 · 基础建模</button><button data-filter="第二章">第二章 · 战斗数值</button><button data-filter="第三章">第三章 · 成长与养成</button><button data-filter="第四章">第四章 · 经济与概率</button><button data-filter="第五章">第五章 · 验证与复盘</button><button data-filter="第六章">第六章 · 多人平衡</button><button data-filter="第七章">第七章 · 版本与迁移</button><button data-filter="第八章">第八章 · 商业化边界</button><button data-filter="第九章">第九章 · 工具与发布</button></nav></aside><section class="content"><div class="toolbar"><h2 id="heading">游戏数值设计方法</h2><input id="search" class="search" placeholder="搜索系列文章…"></div><div id="cards" class="cards"></div><article id="reader" class="reader" hidden></article></section></div>
 <footer class="footer"><span>持续积累 · 独立思考 · 公开分享</span><span>CONTENT IS A SYSTEM</span></footer></main>
 <button id="selectNote" class="select-note" hidden>＋ 批注</button>
 <aside id="noteDrawer" class="note-drawer" hidden><div class="note-drawer-head"><strong>文章批注</strong><button id="closeDrawer">关闭</button></div><div id="noteList" class="note-list"></div></aside>
@@ -34,7 +34,16 @@ const files=[
 ['05_数值与经济/游戏数值设计方法/资源经济设计-从养成需求到产出消耗复盘.md','第四章','09 · 资源经济设计','养成需求、玩法产出、资源消耗、库存与经济复盘'],
 ['05_数值与经济/游戏数值设计方法/多货币体系设计-职责兑换套利与认知成本.md','第四章','10 · 多货币体系设计','货币职责、兑换、定价、套利、交易与认知成本'],
 ['05_数值与经济/游戏数值设计方法/随机掉落设计-累计概率保底与收集周期.md','第四章','11 · 随机掉落设计','累计概率、数量分布、齐套、重复兑换与保底状态'],
-['05_数值与经济/游戏数值设计方法/数值验证与数据复盘-从离线模型到线上诊断.md','第五章','12 · 数值验证与数据复盘','断言、黄金样例、批量模拟、实机对账与线上诊断']];
+['05_数值与经济/游戏数值设计方法/数值验证与数据复盘-从离线模型到线上诊断.md','第五章','12 · 数值验证与数据复盘','断言、黄金样例、批量模拟、实机对账与线上诊断'],
+['05_数值与经济/游戏数值设计方法/PVP平衡-从场景基准到克制关系.md','第六章','13 · PVP 平衡','分层胜率、克制矩阵、操作保留率与版本回归'],
+['05_数值与经济/游戏数值设计方法/匹配与排位-MMR段位组队与等待时间.md','第六章','14 · 匹配与排位','MMR、不确定性、组队修正、等待时间与段位反馈'],
+['05_数值与经济/游戏数值设计方法/多人协作数值-贡献增益与奖励分配.md','第六章','15 · 多人协作数值','组队增益、贡献评价、团队奖励与反利用'],
+['05_数值与经济/游戏数值设计方法/版本成长控制-强度膨胀旧内容与追赶.md','第七章','16 · 版本成长控制','强度膨胀、旧内容定位、资产替代与完整追赶'],
+['05_数值与经济/游戏数值设计方法/玩家资产迁移-映射补偿对账与回滚.md','第七章','17 · 玩家资产迁移','不变量、映射、补偿、账本、舍入与回滚'],
+['05_数值与经济/游戏数值设计方法/商品与礼包定价-价值锚点折扣与购买上限.md','第八章','18 · 商品与礼包定价','免费基线、价值锚点、折扣口径与购买上限'],
+['05_数值与经济/游戏数值设计方法/商业化边界-随机付费时间压力与玩家公平.md','第八章','19 · 商业化边界','随机付费、时间压力、公平、护栏与伦理预检'],
+['05_数值与经济/游戏数值设计方法/数值工作簿设计-输入计算输出与检查.md','第九章','20 · 数值工作簿设计','输入、计算、输出、检查、配置生成与协作'],
+['05_数值与经济/游戏数值设计方法/配置发布流程-版本灰度监控与回滚.md','第九章','21 · 配置发布流程','版本化、门禁、差异、灰度、监控与回滚']];
 const cards=document.querySelector('#cards'),reader=document.querySelector('#reader'),heading=document.querySelector('#heading'),selectNote=document.querySelector('#selectNote'),noteModal=document.querySelector('#noteModal'),noteDrawer=document.querySelector('#noteDrawer');let filter='全部',currentFile='',pendingSelection=null;
 const NOTE_KEY='game-design-annotations-v1';
 const NOTE_PATH_MIGRATIONS={'05_数值与经济/数值设计不是填表-从目标到回滚的完整闭环.md':'05_数值与经济/游戏数值设计方法/数值建模-从体验目标到标准模型.md','03_系统设计/属性体系设计-从定义转化到系统投放.md':'05_数值与经济/游戏数值设计方法/属性体系设计-从定义转化到系统投放.md','04_战斗设计/伤害流程设计-从命中判定到最终结算.md':'05_数值与经济/游戏数值设计方法/伤害流程设计-从命中判定到最终结算.md','04_战斗设计/战斗数值设计-从伤害公式到TTK验证.md':'05_数值与经济/游戏数值设计方法/输出循环与TTK验证.md','03_系统设计/角色成长与等级设计-从经验曲线到长期通胀.md':'05_数值与经济/游戏数值设计方法/等级与经验设计-从成长时间表到进度追赶.md','03_系统设计/玩家成长与内容梯度设计.md':'05_数值与经济/游戏数值设计方法/玩家成长与内容梯度设计.md','03_系统设计/养成系统规划-从总强度预算到模块投放.md':'05_数值与经济/游戏数值设计方法/养成系统规划-从总强度预算到模块投放.md','03_系统设计/装备与道具设计-从随机词缀到强化经济.md':'05_数值与经济/游戏数值设计方法/装备系统设计-从模块预算到掉落养成与替换.md','03_系统设计/技能与天赋设计-从单技能价值到Build多样性.md':'05_数值与经济/游戏数值设计方法/技能与天赋设计-从技能模板到循环养成与构筑验证.md','05_数值与经济/资源经济设计-从养成需求到产出消耗复盘.md':'05_数值与经济/游戏数值设计方法/资源经济设计-从养成需求到产出消耗复盘.md','05_数值与经济/多货币设计-职责汇率与认知成本.md':'05_数值与经济/游戏数值设计方法/多货币体系设计-职责兑换套利与认知成本.md','05_数值与经济/随机掉落设计-累计概率保底与收集周期.md':'05_数值与经济/游戏数值设计方法/随机掉落设计-累计概率保底与收集周期.md'};
