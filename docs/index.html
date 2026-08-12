@@ -31,7 +31,8 @@ const files=[
 ['03_系统设计/养成系统规划-从总强度预算到模块投放.md','系统','06 · 养成系统规划','总强度预算、模块投放、完成度、消耗与成长复盘'],
 ['03_系统设计/装备与道具设计-从随机词缀到强化经济.md','系统','07 · 装备系统设计','模块预算、模板、品质、词缀、强化、替换与经济闭环'],
 ['03_系统设计/技能与天赋设计-从单技能价值到Build多样性.md','系统','08 · 技能与天赋设计','技能模板、循环、升级、修改器、天赋与构筑验证'],
-['05_数值与经济/资源经济设计-从养成需求到产出消耗复盘.md','数值','09 · 资源经济设计','养成需求、玩法产出、资源消耗、库存与经济复盘']];
+['05_数值与经济/资源经济设计-从养成需求到产出消耗复盘.md','数值','09 · 资源经济设计','养成需求、玩法产出、资源消耗、库存与经济复盘'],
+['05_数值与经济/多货币设计-职责汇率与认知成本.md','数值','10 · 多货币体系设计','货币职责、兑换、定价、套利、交易与认知成本']];
 const cards=document.querySelector('#cards'),reader=document.querySelector('#reader'),heading=document.querySelector('#heading'),selectNote=document.querySelector('#selectNote'),noteModal=document.querySelector('#noteModal'),noteDrawer=document.querySelector('#noteDrawer');let filter='全部',currentFile='',pendingSelection=null;
 const NOTE_KEY='game-design-annotations-v1';
 function allNotes(){try{return JSON.parse(localStorage.getItem(NOTE_KEY)||'[]')}catch{return[]}}
