@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "technical-writing": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "skillPath": "pstack/skills/technical-writing/SKILL.md",
+      "computedHash": "4ba98b56a3d8c9a248279f1dcd275038f60995787aa564f88312c65f620f6e0f"
+    }
+  }
+}
